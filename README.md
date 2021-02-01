@@ -74,9 +74,9 @@ Pelajari lebih lanjut komponen teknis dari protokol konsensus Avalanche dengan m
 
 Snowman is a chain-optimized consensus protocol–high-throughput, totally-ordered, and great for smart contracts. Snowman is powered by the [Avalanche consensus protocol](./#avalanche-consensus-protocol). Both [P-Chain](learn/platform-overview/#platform-chain-p-chain) and [C-Chain](learn/platform-overview/#contract-chain-c-chain) implement the Snowman consensus protocol.
 
-## Key Features
+## Fitur Utama
 
-### Speed
+### Kecepatan
 
 Menggunakan protokol konsensus baru, yang dikembangkan oleh tim ilmuwan komputer Cornell, dan mampu mengkonfirmasi transaksi secara permanen dalam waktu kurang dari 1 detik.
 
@@ -108,6 +108,6 @@ Buat blockchain publik atau pribadi Anda sendiri.
 
 Dukungan asli untuk dengan mudah membuat dan memperdagangkan aset pintar digital dengan aturan khusus yang kompleks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0Nzk2ODAxLC0xNjQ5MTgzNTgxLC0xNj
+eyJoaXN0b3J5IjpbMTE2NDQ2MjI2LC0xNjQ5MTgzNTgxLC0xNj
 QwMzg2MjI2LC00NjgyOTEwOTAsLTY1OTU1MzkzM119
 -->
