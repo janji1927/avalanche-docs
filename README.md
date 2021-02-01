@@ -48,7 +48,7 @@ deskripsi: >-
 
 A key difference between Avalanche and other decentralized networks is the consensus protocol. Over time, people have come to a false understanding that blockchains have to be slow and not scalable. The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput, without compromising decentralization.
 
-## Avalanche \(AVAX\) Token
+## Avalanc
 
 The Avalanche \(AVAX\) token is the native token of the Avalanche platform and is used to secure the network through staking, transact peer-to-peer, pay for fees, and provide a basic unit of account between the multiple subnetworks created on the Avalanche platform. `1 nAVAX` is equal to `0.000000001 AVAX`.
 
@@ -109,5 +109,5 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTU1MzkzMywtNjU5NTUzOTMzXX0=
+eyJoaXN0b3J5IjpbNDQ1NTU2NDAyLC02NTk1NTM5MzNdfQ==
 -->
