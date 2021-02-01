@@ -78,15 +78,15 @@ Snowman is a chain-optimized consensus protocol–high-throughput, totally-order
 
 ### Speed
 
-Uses a novel consensus protocol, developed by a team of Cornell computer scientists, and is able to permanently confirm transactions in under 1 second.
+Menggunakan protokol konsensus baru, yang dikembangkan oleh tim ilmuwan komputer Cornell, dan mampu mengkonfirmasi transaksi secara permanen dalam waktu kurang dari 1 detik.
 
 ### Scalability
 
-Capable of 4,500 transactions per second–an order of magnitude greater than existing blockchains.
+Mampu 4,500 transaksi per detik – urutan besarnya lebih besar dari blockchain yang ada.
 
 ### Keamanan
 
-Ensures stronger security guarantees well-above the 51% standard of other networks.
+Memastikan jaminan keamanan yang lebih kuat jauh di atas standar 51% jaringan lain.
 
 ### Fleksibilitas
 
@@ -108,6 +108,6 @@ Buat blockchain publik atau pribadi Anda sendiri.
 
 Dukungan asli untuk dengan mudah membuat dan memperdagangkan aset pintar digital dengan aturan khusus yang kompleks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjYxMTEzMSwtMTY0OTE4MzU4MSwtMT
-Y0MDM4NjIyNiwtNDY4MjkxMDkwLC02NTk1NTM5MzNdfQ==
+eyJoaXN0b3J5IjpbODg0Nzk2ODAxLC0xNjQ5MTgzNTgxLC0xNj
+QwMzg2MjI2LC00NjgyOTEwOTAsLTY1OTU1MzkzM119
 -->
