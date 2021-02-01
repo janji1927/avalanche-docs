@@ -58,7 +58,7 @@ The Avalanche \(AVAX\) token is the native token of the Avalanche platform and i
 
 Protokol dalam keluarga Avalanche beroperasi melalui pemungutan suara sub-sampel berulang kali. Ketika sebuah [validator](http://support.avalabs.org/en/articles/4064704-what-is-a-blockchain-validator) sedang menentukan apakah [transaksi](http://support.avalabs.org/en/articles/4587384-what-is-a-transaction) harus diterima atau ditolak, ini menanyakan subset kecil validator acak apakah menurut mereka transaksi harus diterima atau ditolak. Jika validator yang ditanya menganggap transaksi tersebut tidak valid, telah menolak transaksi tersebut, atau lebih memilih transaksi yang bentrok, ia menjawab bahwa transaksi tersebut harus ditolak. Jika tidak, ia menjawab bahwa transaksi tersebut harus diterima.
 
-Jika sebagian besar \(_alpha_ $$α$$\) dari validator mengambil sampel balasan yang menurut mereka transaksi harus diterima, validator lebih memilih untuk menerima transaksi. Artinya, ketika ditanya tentang transaksi di masa depan, ia akan menjawab bahwa transaksi tersebut harus diterima. Demikian pula, validator akan memilih untuk menolak transaksi jika sebagian besar validator menjawab bahwa mereka menganggap transaksi tersebut harus ditolak.
+Jika sebagian besar \ (_ alpha_ $$α$$ \) dari validator mengambil sampel balasan yang menurut mereka transaksi harus diterima, validator lebih memilih untuk menerima transaksi. Artinya, ketika ditanya tentang transaksi di masa depan, ia akan menjawab bahwa transaksi tersebut harus diterima. Demikian pula, validator akan memilih untuk menolak transaksi jika sebagian besar validator menjawab bahwa mereka menganggap transaksi tersebut harus ditolak.
 
 The validator repeats this sampling process until _alpha_ of the validators queried reply the same way \(accept or reject\) for _beta_ $$β$$ consecutive rounds.
 
@@ -107,7 +107,7 @@ Create your own public or private blockchains.
 ### Designed for Finance
 
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
-
+**strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTAxODY2MiwtNjU5NTUzOTMzXX0=
+eyJoaXN0b3J5IjpbMTA1MTUzNDU0OCwtNjU5NTUzOTMzXX0=
 -->
