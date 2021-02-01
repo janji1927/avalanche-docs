@@ -48,7 +48,7 @@ deskripsi: >-
 
 Perbedaan utama antara Avalanche dan jaringan terdesentralisasi lainnya adalah protokol konsensus. Seiring waktu, orang menjadi salah paham bahwa blockchain harus lambat dan tidak dapat diskalakan. Protokol Avalanche menggunakan pendekatan baru terhadap konsensus untuk mencapai jaminan keamanan yang kuat, penyelesaian cepat, dan throughput tinggi, tanpa mengorbankan desentralisasi.
 
-## Token \ (AVAX\) Avalanche
+## Token \(AVAX\) Avalanche
 
 Token Avalanche \(AVAX\) adalah token asli dari platform Avalanche dan digunakan untuk mengamankan jaringan melalui staking, bertransaksi peer-to-peer, membayar biaya, dan menyediakan unit akun dasar antara beberapa subnetwork yang dibuat di platform Avalanche. `1 nAVAX` sama dengan` 0.000000001 AVAX`.
 
@@ -62,7 +62,7 @@ Jika sebagian besar \ (_ alpha_ $$α$$ \) dari validator mengambil sampel balasa
 
 Validator mengulangi proses pengambilan sampel ini hingga _alpha_ dari validator menanyakan balasan dengan cara yang sama \(terima atau tolak\) untuk putaran berturut-turut _beta_ $$β$$.
 
-In the common case when a transaction has no conflicts, finalization happens very quickly. When conflicts exist, honest validators quickly cluster around conflicting transactions, entering a positive feedback loop until all correct validators prefer that transaction. This leads to the acceptance of non-conflicting transactions and the rejection of conflicting transactions.
+Dalam kasus umum ketika transaksi tidak memiliki konflik, penyelesaian terjadi dengan sangat cepat. Ketika konflik terjadi, validator yang jujur dengan cepat berkumpul di sekitar transaksi yang bertentangan, memasuki loop umpan balik positif sampai semua validator yang benar memilih transaksi itu. Hal ini mengarah pada penerimaan transaksi yang tidak bertentangan dan penolakan transaksi yang bentrok.
 
 ![How Avalanche Consensus Works](.gitbook/assets/howavalancheconsensusworks.png)
 
@@ -109,6 +109,6 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Njk0NDI0LC0xNjQ5MTgzNTgxLC0xNj
-QwMzg2MjI2LC00NjgyOTEwOTAsLTY1OTU1MzkzM119
+eyJoaXN0b3J5IjpbLTkxODQwNTYxOSwtMTY0OTE4MzU4MSwtMT
+Y0MDM4NjIyNiwtNDY4MjkxMDkwLC02NTk1NTM5MzNdfQ==
 -->
