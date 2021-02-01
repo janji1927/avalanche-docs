@@ -58,7 +58,7 @@ The Avalanche \(AVAX\) token is the native token of the Avalanche platform and i
 
 Protokol dalam keluarga Avalanche beroperasi melalui pemungutan suara sub-sampel berulang kali. Ketika sebuah [validator](http://support.avalabs.org/en/articles/4064704-what-is-a-blockchain-validator) sedang menentukan apakah [transaksi](http://support.avalabs.org/en/articles/4587384-what-is-a-transaction) harus diterima atau ditolak, ini menanyakan subset kecil validator acak apakah menurut mereka transaksi harus diterima atau ditolak. Jika validator yang ditanya menganggap transaksi tersebut tidak valid, telah menolak transaksi tersebut, atau lebih memilih transaksi yang bentrok, ia menjawab bahwa transaksi tersebut harus ditolak. Jika tidak, ia menjawab bahwa transaksi tersebut harus diterima.
 
-If a sufficiently large portion \(_alpha_ $$α$$\) of the validators sampled reply that they think the transaction should be accepted, the validator prefers to accept the transaction. That is, when it is queried about the transaction in the future, it will reply that it thinks the transaction should be accepted. Similarly, the validator will prefer to reject the transaction if a sufficiently large portion of the validators replies that they think the transaction should be rejected.
+
 
 The validator repeats this sampling process until _alpha_ of the validators queried reply the same way \(accept or reject\) for _beta_ $$β$$ consecutive rounds.
 
@@ -109,5 +109,5 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NjU0NzA0LC02NTk1NTM5MzNdfQ==
+eyJoaXN0b3J5IjpbMjE0NjU5OTUzMywtNjU5NTUzOTMzXX0=
 -->
