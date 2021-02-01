@@ -66,7 +66,7 @@ Dalam kasus umum ketika transaksi tidak memiliki konflik, penyelesaian terjadi d
 
 ![How Avalanche Consensus Works](.gitbook/assets/howavalancheconsensusworks.png)
 
-It is guaranteed \(with high probability based on system parameters\) that if any honest validator accepts or rejects a transaction, all honest validators will accept or reject that transaction.
+Dijamin \(dengan probabilitas tinggi berdasarkan parameter sistem\) bahwa jika validator yang jujur menerima atau menolak transaksi, semua validator yang jujur akan menerima atau menolak transaksi itu.
 
 Learn more technical components of the Avalanche consensus protocol by reading the [whitepaper](https://arxiv.org/pdf/1906.08936.pdf).
 
@@ -109,6 +109,6 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODQwNTYxOSwtMTY0OTE4MzU4MSwtMT
-Y0MDM4NjIyNiwtNDY4MjkxMDkwLC02NTk1NTM5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ4ODk3NjUsLTE2NDkxODM1ODEsLT
+E2NDAzODYyMjYsLTQ2ODI5MTA5MCwtNjU5NTUzOTMzXX0=
 -->
