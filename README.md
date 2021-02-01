@@ -98,16 +98,16 @@ Uses energy-efficient proof-of-stake consensus algorithm rather than proof-of-wo
 
 ### Smart Contract Support
 
-Supports the creation of Solidity smart contracts and your favorite Ethereum tools like Remix, Metamask, Truffle, and more.
+Mendukung pembuatan kontrak pintar Soliditas dan alat Ethereum favorit Anda seperti Remix, Metamask, Truffle, dan banyak lagi.
 
-### Private and Public Blockchains
+### Blockchain Pribadi dan Publik
 
-Create your own public or private blockchains.
+Buat blockchain publik atau pribadi Anda sendiri.
 
 ### Didesain untuk Keuangan
 
-Native support for easily creating and trading digital smart assets with complex, custom rulesets.
+Dukungan asli untuk dengan mudah membuat dan memperdagangkan aset pintar digital dengan aturan khusus yang kompleks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MjcyMDM5LC0xNjQ5MTgzNTgxLC0xNj
+eyJoaXN0b3J5IjpbODkxODIwOTEwLC0xNjQ5MTgzNTgxLC0xNj
 QwMzg2MjI2LC00NjgyOTEwOTAsLTY1OTU1MzkzM119
 -->
