@@ -68,9 +68,9 @@ Dalam kasus umum ketika transaksi tidak memiliki konflik, penyelesaian terjadi d
 
 Dijamin \(dengan probabilitas tinggi berdasarkan parameter sistem\) bahwa jika validator yang jujur menerima atau menolak transaksi, semua validator yang jujur akan menerima atau menolak transaksi itu.
 
-Learn more technical components of the Avalanche consensus protocol by reading the [whitepaper](https://arxiv.org/pdf/1906.08936.pdf).
+Pelajari lebih lanjut komponen teknis dari protokol konsensus Avalanche dengan membaca [whitepaper](https://arxiv.org/pdf/1906.08936.pdf).
 
-## Snowman Consensus Protocol
+## Protokol Konsensus Manusia Salju
 
 Snowman is a chain-optimized consensus protocol–high-throughput, totally-ordered, and great for smart contracts. Snowman is powered by the [Avalanche consensus protocol](./#avalanche-consensus-protocol). Both [P-Chain](learn/platform-overview/#platform-chain-p-chain) and [C-Chain](learn/platform-overview/#contract-chain-c-chain) implement the Snowman consensus protocol.
 
@@ -109,6 +109,6 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ4ODk3NjUsLTE2NDkxODM1ODEsLT
-E2NDAzODYyMjYsLTQ2ODI5MTA5MCwtNjU5NTUzOTMzXX0=
+eyJoaXN0b3J5IjpbODE4MzA2MTE1LC0xNjQ5MTgzNTgxLC0xNj
+QwMzg2MjI2LC00NjgyOTEwOTAsLTY1OTU1MzkzM119
 -->
