@@ -1,7 +1,6 @@
 ---
-description: >-
-  Build on Avalanche. Build without limits. Developers who build on Avalanche
-  can easily create powerful, reliable, and secure applications.
+deskripsi: >-
+   Bangun di atas Longsor. Bangun tanpa batas. Pengembang yang membangun di atas Avalanche  dapat dengan mudah membuat aplikasi yang kuat, andal, dan aman.
 ---
 
 # Dokumentasi Pengembang
@@ -109,5 +108,5 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc0ODkyODddfQ==
+eyJoaXN0b3J5IjpbMTA5NjUyMTQ5OF19
 -->
