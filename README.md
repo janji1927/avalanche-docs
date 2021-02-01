@@ -46,7 +46,7 @@ deskripsi: >-
 
 [Avalanche](https://avax.network) platform sumber terbuka untuk meluncurkan [aplikasi terdesentralisasi](https://support.avalabs.org/en/articles/4587146-what-is-a-decentralized-application-dapp) dan penerapan [blockchain](http://support.avalabs.org/en/articles/4064677-what-is-a-blockchain) perusahaan dalam satu ekosistem yang dapat dioperasikan dan sangat skalabel. Avalanche memberi Anda kendali penuh pada jaringan dan lapisan aplikasi – membantu Anda membangun apa pun yang dapat Anda bayangkan.
 
-A key difference between Avalanche and other decentralized networks is the consensus protocol. Over time, people have come to a false understanding that blockchains have to be slow and not scalable. The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput, without compromising decentralization.
+Perbedaan utama antara Avalanche dan jaringan terdesentralisasi lainnya adalah protokol konsensus. Seiring waktu, orang menjadi salah paham bahwa blockchain harus lambat dan tidak dapat diskalakan. Protokol Avalanche menggunakan pendekatan baru terhadap konsensus untuk mencapai jaminan keamanan yang kuat, penyelesaian cepat, dan throughput tinggi, tanpa mengorbankan desentralisasi.
 
 ## Avalanche \(AVAX\) Token
 
@@ -109,6 +109,6 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDM5OTg4MCwtMTY0MDM4NjIyNiwtND
-Y4MjkxMDkwLC02NTk1NTM5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE2NDkxODM1ODEsLTE2NDAzODYyMjYsLT
+Q2ODI5MTA5MCwtNjU5NTUzOTMzXX0=
 -->
