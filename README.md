@@ -48,9 +48,9 @@ deskripsi: >-
 
 Perbedaan utama antara Avalanche dan jaringan terdesentralisasi lainnya adalah protokol konsensus. Seiring waktu, orang menjadi salah paham bahwa blockchain harus lambat dan tidak dapat diskalakan. Protokol Avalanche menggunakan pendekatan baru terhadap konsensus untuk mencapai jaminan keamanan yang kuat, penyelesaian cepat, dan throughput tinggi, tanpa mengorbankan desentralisasi.
 
-## Avalanche \(AVAX\) Token
+## Token \ (AVAX\) Avalanche
 
-Token Avalanche \ (AVAX \) adalah token asli dari platform Avalanche dan digunakan untuk mengamankan jaringan melalui staking, bertransaksi peer-to-peer, membayar biaya, dan menyediakan unit akun dasar antara beberapa subnetwork yang dibuat di platform Avalanche. `1 nAVAX` sama dengan` 0.000000001 AVAX`.
+Token Avalanche \(AVAX\) adalah token asli dari platform Avalanche dan digunakan untuk mengamankan jaringan melalui staking, bertransaksi peer-to-peer, membayar biaya, dan menyediakan unit akun dasar antara beberapa subnetwork yang dibuat di platform Avalanche. `1 nAVAX` sama dengan` 0.000000001 AVAX`.
 
 ## Protokol Konsensus Avalanche
 
@@ -109,6 +109,6 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ0NzE5MDIsLTE2NDkxODM1ODEsLT
-E2NDAzODYyMjYsLTQ2ODI5MTA5MCwtNjU5NTUzOTMzXX0=
+eyJoaXN0b3J5IjpbLTQ4Njk0NDI0LC0xNjQ5MTgzNTgxLC0xNj
+QwMzg2MjI2LC00NjgyOTEwOTAsLTY1OTU1MzkzM119
 -->
