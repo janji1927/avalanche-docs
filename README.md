@@ -60,7 +60,7 @@ Protokol dalam keluarga Avalanche beroperasi melalui pemungutan suara sub-sampel
 
 Jika sebagian besar \ (_ alpha_ $$α$$ \) dari validator mengambil sampel balasan yang menurut mereka transaksi harus diterima, validator lebih memilih untuk menerima transaksi. Artinya, ketika ditanya tentang transaksi di masa depan, ia akan menjawab bahwa transaksi tersebut harus diterima. Demikian pula, validator akan memilih untuk menolak transaksi jika sebagian besar validator menjawab bahwa mereka menganggap transaksi tersebut harus ditolak.
 
-The validator repeats this sampling process until _alpha_ of the validators queried reply the same way \(accept or reject\) for _beta_ $$β$$ consecutive rounds.
+Validator mengulangi proses pengambilan sampel ini hingga _alpha_ dari validator menanyakan balasan dengan cara yang sama \(terima atau tolak\) untuk putaran berturut-turut _beta_ $$β$$.
 
 In the common case when a transaction has no conflicts, finalization happens very quickly. When conflicts exist, honest validators quickly cluster around conflicting transactions, entering a positive feedback loop until all correct validators prefer that transaction. This leads to the acceptance of non-conflicting transactions and the rejection of conflicting transactions.
 
@@ -109,5 +109,5 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTUzNDU0OCwtNjU5NTUzOTMzXX0=
+eyJoaXN0b3J5IjpbLTQ2ODI5MTA5MCwtNjU5NTUzOTMzXX0=
 -->
