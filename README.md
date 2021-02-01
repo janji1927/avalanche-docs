@@ -84,19 +84,19 @@ Uses a novel consensus protocol, developed by a team of Cornell computer scienti
 
 Capable of 4,500 transactions per second–an order of magnitude greater than existing blockchains.
 
-### Security
+### Keamanan
 
 Ensures stronger security guarantees well-above the 51% standard of other networks.
 
-### Flexibility
+### Fleksibilitas
 
-Easily create custom blockchains and decentralized apps that contain almost any arbitrary logic.
+Mudah membuat blockchain khusus dan aplikasi terdesentralisasi yang berisi hampir semua logika arbitrer.
 
-### Sustainability
+### Keberlanjutan
 
-Uses energy-efficient proof-of-stake consensus algorithm rather than proof-of-work.
+Menggunakan algoritma konsensus bukti kepemilikan yang hemat energi daripada bukti kerja.
 
-### Smart Contract Support
+### Dukungan Kontrak Cerdas
 
 Mendukung pembuatan kontrak pintar Soliditas dan alat Ethereum favorit Anda seperti Remix, Metamask, Truffle, dan banyak lagi.
 
@@ -108,6 +108,6 @@ Buat blockchain publik atau pribadi Anda sendiri.
 
 Dukungan asli untuk dengan mudah membuat dan memperdagangkan aset pintar digital dengan aturan khusus yang kompleks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxODIwOTEwLC0xNjQ5MTgzNTgxLC0xNj
-QwMzg2MjI2LC00NjgyOTEwOTAsLTY1OTU1MzkzM119
+eyJoaXN0b3J5IjpbLTI0MjYxMTEzMSwtMTY0OTE4MzU4MSwtMT
+Y0MDM4NjIyNiwtNDY4MjkxMDkwLC02NTk1NTM5MzNdfQ==
 -->
