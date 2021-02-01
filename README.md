@@ -6,10 +6,10 @@ deskripsi: >-
 
 # Dokumentasi Pengembang
 
-## Getting Started
+## Mulai
 
 {% tabs %}
-{% tab title="Coming From Ethereum?" %}
+{% tab title="Berasal Dari Ethereum?" %}
 {% page-ref page="build/tutorials/smart-contracts/deploy-a-smart-contract-on-avalanche-using-remix-and-metamask.md" %}
 
 {% page-ref page="build/tutorials/smart-contracts/using-truffle-with-the-avalanche-c-chain.md" %}
@@ -109,5 +109,6 @@ Create your own public or private blockchains.
 Native support for easily creating and trading digital smart assets with complex, custom rulesets.
 **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODI5MTA5MCwtNjU5NTUzOTMzXX0=
+eyJoaXN0b3J5IjpbLTE2NDAzODYyMjYsLTQ2ODI5MTA5MCwtNj
+U5NTUzOTMzXX0=
 -->
