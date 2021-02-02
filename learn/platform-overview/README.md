@@ -81,15 +81,15 @@ X-Chain adalah turunan dari Mesin Virtual Avalanche (AVM). Itu [X-Chain API](../
 
 P-Chain adalah blockchain metadata di Avalanche dan mengoordinasikan validator, melacak subnet aktif, dan memungkinkan pembuatan subnet baru. P-Chain mengimplementasikan. [protokol konsensus Snowman](../../#snowman-consensus-protocol).
 
-[P-Chain API](../../build/avalanchego-apis/platform-chain-p-chain-api.md) allows clients to create subnets, add validators to subnets, and create blockchains.
+[P-Chain API](../../build/avalanchego-apis/platform-chain-p-chain-api.md) memungkinkan klien untuk membuat subnet, menambahkan validator ke subnet, dan membuat blockchain.
 
-## Contract Chain \(C-Chain\)
+## Rantai Kontrak \(C-Chain\)
 
 The **C-Chain** allows for the creation smart contracts using the [C-Chain’s API](../../build/avalanchego-apis/contract-chain-c-chain-api.md).
 
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzI2NDkxMywtMjA0NzQ5MzAxNywxOT
-IwMDU4OTMyLC03NzM0NTAyNTYsMTM4MjEyMzUyNV19
+eyJoaXN0b3J5IjpbLTEwNjUwNTg5NDgsLTIwNDc0OTMwMTcsMT
+kyMDA1ODkzMiwtNzczNDUwMjU2LDEzODIxMjM1MjVdfQ==
 -->
