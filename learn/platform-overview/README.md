@@ -36,9 +36,9 @@ Dalam jaringan blockchain yang heterogen, beberapa validator tidak ingin memvali
 
 ### Persyaratan Khusus Aplikasi
 
-Aplikasi berbasis blockchain yang berbeda mungkin memerlukan validator untuk memiliki properti tertentu. Misalkan ada aplikasi yang membutuhkan RAM atau CPU power dalam jumlah besar. Subnet mungkin mengharuskan validator memenuhi persyaratan [perangkat keras tertentu](http://support.avalabs.org/en/articles/4064879-technical-requirements-for-running-a-validator-node-on-avalanche) so that the application doesn’t suffer from low performance due to slow validators.
+Aplikasi berbasis blockchain yang berbeda mungkin memerlukan validator untuk memiliki properti tertentu. Misalkan ada aplikasi yang membutuhkan RAM atau CPU power dalam jumlah besar. Subnet mungkin mengharuskan validator memenuhi persyaratan [perangkat keras tertentu](http://support.avalabs.org/en/articles/4064879-technical-requirements-for-running-a-validator-node-on-avalanche) sehingga aplikasi tidak mengalami kinerja rendah karena validator lambat.
 
-## Virtual Machines
+## Mesin virtual
 
 A **Virtual Machine** \(VM\) defines the application-level logic of a blockchain. In technical terms, it specifies the blockchain’s state, state transition function, transactions, and the API through which users can interact with the blockchain. Every blockchain on Avalanche is an instance of a VM.
 
@@ -89,5 +89,5 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5MzM4NzU5LDEzODIxMjM1MjVdfQ==
+eyJoaXN0b3J5IjpbMTI5MTkwNDkyNCwxMzgyMTIzNTI1XX0=
 -->
