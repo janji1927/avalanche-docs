@@ -72,11 +72,12 @@ Di masa mendatang, Avalanche akan memungkinkan Anda untuk menentukan dan meluncu
 
 Satu aset yang diperdagangkan di X-Chain adalah AVAX. Saat Anda mengeluarkan transaksi ke blockchain di Avalanche, Anda membayar biaya dalam mata uang AVAX.
 
-X-Chain adalah turunan dari Mesin Virtual Avalanche (AVM). Itu [X-Chain API](../../build/avalanchego-apis/exchange-chain-x-chain-api.md) allows clients to create and trade assets on the X-Chain and other instances of the AVM.
+X-Chain adalah turunan dari Mesin Virtual Avalanche (AVM). Itu [X-Chain API](../../build/avalanchego-apis/exchange-chain-x-chain-api.md) memungkinkan klien untuk membuat dan memperdagangkan aset di X-Chain dan contoh AVM lainnya.
 
 {% page-ref page="../../build/tutorials/smart-digital-assets/create-a-fix-cap-asset.md" %}
 
-## Platform Chain \(P-Chain\)
+## Rantai Platform \(Rantai-P\)
+
 
 The **P-Chain** is the metadata blockchain on Avalanche and coordinates validators, keeps track of active subnets, and enables the creation of new subnets. The P-Chain implements the [Snowman consensus protocol](../../#snowman-consensus-protocol).
 
@@ -89,6 +90,6 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MDg4MDgsLTIwNDc0OTMwMTcsMTkyMD
-A1ODkzMiwtNzczNDUwMjU2LDEzODIxMjM1MjVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDQzODgxNDMsLTIwNDc0OTMwMTcsMT
+kyMDA1ODkzMiwtNzczNDUwMjU2LDEzODIxMjM1MjVdfQ==
 -->
