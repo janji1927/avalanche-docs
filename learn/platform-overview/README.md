@@ -40,9 +40,9 @@ Aplikasi berbasis blockchain yang berbeda mungkin memerlukan validator untuk mem
 
 ## Mesin virtual
 
-A **Virtual Machine** \(VM\) defines the application-level logic of a blockchain. In technical terms, it specifies the blockchain’s state, state transition function, transactions, and the API through which users can interact with the blockchain. Every blockchain on Avalanche is an instance of a VM.
+A **Mesin Virtual** \(VM\) mendefinisikan logika tingkat aplikasi dari sebuah blockchain. Dalam istilah teknis, ini menentukan status blockchain, fungsi transisi status, transaksi, dan API di mana pengguna dapat berinteraksi dengan blockchain. Setiap blockchain di Avalanche adalah instance dari VM.
 
-When you write a VM, you don't need to concern yourself with lower-level logic like networking, consensus, and the structure of the blockchain. Avalanche does this behind the scenes so you can focus on the thing you would like to build.
+Saat menulis VM, Anda tidak perlu memikirkan logika tingkat rendah seperti jaringan, konsensus, dan struktur blockchain. Avalanche melakukan ini di belakang layar sehingga Anda dapat fokus pada hal yang ingin Anda bangun.
 
 Think of a VM as a blueprint for a blockchain; you can use the same VM to create many blockchains, each of which follows the same ruleset but is logically independent of other blockchains.
 
@@ -89,5 +89,5 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTkwNDkyNCwxMzgyMTIzNTI1XX0=
+eyJoaXN0b3J5IjpbMTg4ODQwNjc2OCwxMzgyMTIzNTI1XX0=
 -->
