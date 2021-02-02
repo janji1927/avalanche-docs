@@ -18,12 +18,12 @@ Subnet mengelola keanggotaannya sendiri, dan mungkin mengharuskan validator kons
 
 ### Pemenuhan
 
-Avalanche’s subnet architecture makes regulatory compliance manageable. As mentioned above, a subnet may require validators to meet a set of requirements.
+Arsitektur subnet Avalanche membuat kepatuhan peraturan dapat dikelola. Seperti disebutkan di atas, subnet mungkin memerlukan validator untuk memenuhi serangkaian persyaratan.
 
-Some examples include:
+Beberapa contoh termasuk:
 
-* Validators must be located in a given country
-* Validators must pass a KYC/AML checks
+* Validator harus berlokasi di negara tertentu
+* Validator harus lulus pemeriksaan KYCML
 * Validators must hold a certain license
 
 ### Support for Private Blockchains
@@ -89,5 +89,5 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjU1OTA5M119
+eyJoaXN0b3J5IjpbMTAxOTEwMDAzOV19
 -->
