@@ -44,11 +44,11 @@ A **Mesin Virtual** \(VM\) mendefinisikan logika tingkat aplikasi dari sebuah bl
 
 Saat menulis VM, Anda tidak perlu memikirkan logika tingkat rendah seperti jaringan, konsensus, dan struktur blockchain. Avalanche melakukan ini di belakang layar sehingga Anda dapat fokus pada hal yang ingin Anda bangun.
 
-Think of a VM as a blueprint for a blockchain; you can use the same VM to create many blockchains, each of which follows the same ruleset but is logically independent of other blockchains.
+Pikirkan VM sebagai cetak biru untuk blockchain; Anda dapat menggunakan VM yang sama untuk membuat banyak blockchain, yang masing-masing mengikuti kumpulan aturan yang sama tetapi secara logis tidak bergantung pada blockchain lainnya.
 
-### Why Virtual Machines?
+### Mengapa Mesin Virtual?
 
-At first, blockchain networks had one Virtual Machine \(VM\) with a pre-defined, static set of functionality. This rigid, monolithic design limited what blockchain-based applications one could run on such networks.
+Pada awalnya, jaringan blockchain memiliki satu Mesin Virtual \(VM\) dengan serangkaian fungsionalitas statis yang telah ditentukan sebelumnya. Desain yang kaku dan monolitik ini membatasi aplikasi berbasis blockchain yang dapat dijalankan seseorang di jaringan tersebut.
 
 People who wanted custom decentralized applications had to create their own, entirely new blockchain network from scratch. Doing so required a great deal of time and effort, offered limited security, and generally resulted in a bespoke, fragile blockchain that never got off the ground.
 
@@ -89,5 +89,5 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODQwNjc2OCwxMzgyMTIzNTI1XX0=
+eyJoaXN0b3J5IjpbLTc3MzQ1MDI1NiwxMzgyMTIzNTI1XX0=
 -->
