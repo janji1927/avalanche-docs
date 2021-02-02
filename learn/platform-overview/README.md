@@ -4,7 +4,7 @@ deskripsi: Mempelajari konsep inti dan arsitektur Avalanche
 
 # Tinjauan Platform
 
-Avalanche memiliki 3 blockchain bawaan: [**Rantai Pertukaran \(X-Chain\)**](./#exchange-chain-x-chain), [**Platform Chain \(P-Chain\)**](./#platform-chain-p-chain), and [**Contract Chain \(C-Chain**\)](./#contract-chain-c-chain). All 3 blockchains are [validated](http://support.avalabs.org/en/articles/4064704-what-is-a-blockchain-validator) and secured by the [**Primary Network**](http://support.avalabs.org/en/articles/4135650-what-is-the-primary-network). The Primary Network is a special [subnet](http://support.avalabs.org/en/articles/4064861-what-is-a-subnetwork-subnet), and all members of all custom subnets must also be a member of the Primary Network by staking at least 2,000 AVAX.
+Avalanche memiliki 3 blockchain bawaan: [**Rantai Pertukaran \(X-Chain\)**](./#exchange-chain-x-chain), [**Rantai Platform \(P-Chain\)**](./#platform-chain-p-chain), and [**Rantai Kontrak \(C-Chain**\)](./#contract-chain-c-chain). All 3 blockchains are [validated](http://support.avalabs.org/en/articles/4064704-what-is-a-blockchain-validator) and secured by the [**Primary Network**](http://support.avalabs.org/en/articles/4135650-what-is-the-primary-network). The Primary Network is a special [subnet](http://support.avalabs.org/en/articles/4064861-what-is-a-subnetwork-subnet), and all members of all custom subnets must also be a member of the Primary Network by staking at least 2,000 AVAX.
 
 Here are tutorials on [creating a subnet](../../build/tutorials/platform/create-a-subnet.md) and [adding validators](../../build/tutorials/nodes-and-staking/add-a-validator.md) to a subnet.
 
@@ -66,7 +66,7 @@ Di masa mendatang, Avalanche akan memungkinkan Anda untuk menentukan dan meluncu
 
 {% page-ref page="../../build/tutorials/platform/create-a-virtual-machine-vm.md" %}
 
-## Rantai Pertukaran \(X-Chain\)
+## Rantai Pertukaran \(Rantai-X\)
 
 **X-Chain** bertindak sebagai platform terdesentralisasi untuk membuat dan memperdagangkan aset pintar digital, representasi dari sumber daya dunia nyata \(misalnya, ekuitas, obligasi\) dengan seperangkat aturan yang mengatur perilakunya, seperti "tidak bisa diperdagangkan sampai besok "atau" hanya bisa dikirim ke warga AS".
 
@@ -83,14 +83,14 @@ P-Chain adalah blockchain metadata di Avalanche dan mengoordinasikan validator, 
 
 [P-Chain API](../../build/avalanchego-apis/platform-chain-p-chain-api.md) memungkinkan klien untuk membuat subnet, menambahkan validator ke subnet, dan membuat blockchain.
 
-## Rantai Kontrak \(C-Chain\)
+## Rantai Kontrak \(Rantai-C\)
 
 C-Chain memungkinkan pembuatan kontrak pintar menggunakan [C-Chain’s API](../../build/avalanchego-apis/contract-chain-c-chain-api.md).
 
 C-Chain adalah mesin virtual dari Mesin Virtual Ethereum yang didukung oleh [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5ODQ0NTU5LDM3NzEyMjYzMiwtMTA2NT
-A1ODk0OCwtMjA0NzQ5MzAxNywxOTIwMDU4OTMyLC03NzM0NTAy
-NTYsMTM4MjEyMzUyNV19
+eyJoaXN0b3J5IjpbMTE4MzYwNDI2MSwzNzcxMjI2MzIsLTEwNj
+UwNTg5NDgsLTIwNDc0OTMwMTcsMTkyMDA1ODkzMiwtNzczNDUw
+MjU2LDEzODIxMjM1MjVdfQ==
 -->
