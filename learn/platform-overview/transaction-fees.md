@@ -36,14 +36,14 @@ Jenis transaksi yang berbeda memerlukan pembayaran biaya transaksi yang berbeda 
 +----------+-------------------+------------------------+
 | X        : Buat Aset      |                   0.01 |
 +----------+-------------------+------------------------+
-| X        : Mint Asset        |                  0.001 |
+| X        : Aset Mint        |                  0.001 |
 +----------+-------------------+------------------------+
-| X        : Import AVAX       |                  0.001 |
+| X        : Impor AVAX       |                  0.001 |
 +----------+-------------------+------------------------+
-| X        : Export AVAX       |                  0.001 |
+| X        : Ekspor AVAX       |                  0.001 |
 +----------+-------------------+------------------------+
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTU2OTE1MF19
+eyJoaXN0b3J5IjpbLTM4NTYwNDIzNV19
 -->
