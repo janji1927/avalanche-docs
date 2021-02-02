@@ -6,14 +6,14 @@ deskripsi: Pelajari lebih lanjut tentang biaya transaksi Avalanche
 
 Untuk mencegah spam, transaksi di Avalanche memerlukan pembayaran biaya transaksi. Biaya dibayarkan [AVAX](../../#avalanche-avax-token). **Biaya transaksi dibakar \(dihancurkan selamanya\).**
 
-Saat Anda mengeluarkan transaksi melalui Avalanche'API, biaya transaksi secara otomatis dipotong dari salah satu alamat yang Anda kontrol.
+Saat Anda mengeluarkan transaksi melalui Avalanche API, biaya transaksi secara otomatis dipotong dari salah satu alamat yang Anda kontrol.
 
-## Fee Schedule
+## Jadwal Biaya
 
-Different types of transactions require payment of a different transaction fee. This table shows the transaction fee schedule:
+Jenis transaksi yang berbeda memerlukan pembayaran biaya transaksi yang berbeda pula. Tabel ini menunjukkan jadwal biaya transaksi:
 
 {% hint style="warning" %}
-The [C-Chain](./#contract-chain-c-chain) gas price is 4.7e-7 or 0.00000047 AVAX/gas. The C-Chain gas limit is 10e8 or 1,000,000,000
+[Ran](./#contract-chain-c-chain) gas price is 4.7e-7 or 0.00000047 AVAX/gas. The C-Chain gas limit is 10e8 or 1,000,000,000
 {% endhint %}
 
 ```cpp
@@ -45,5 +45,5 @@ The [C-Chain](./#contract-chain-c-chain) gas price is 4.7e-7 or 0.00000047 AVAX/
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0OTc5ODAzXX0=
+eyJoaXN0b3J5IjpbLTM1MjEzNzc2N119
 -->
