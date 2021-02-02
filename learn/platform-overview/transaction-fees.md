@@ -13,12 +13,12 @@ Saat Anda mengeluarkan transaksi melalui Avalanche API, biaya transaksi secara o
 Jenis transaksi yang berbeda memerlukan pembayaran biaya transaksi yang berbeda pula. Tabel ini menunjukkan jadwal biaya transaksi:
 
 {% hint style="warning" %}
-[Rantai-C](./#contract-chain-c-chain) harga gas 4.7e-7 atau 0.00000047 AVAX/gas. Batas gas C-Chain adalah 10e8 atau 1,000,000,000
+[Rantai-C](./#contract-chain-c-chain) harga gas 4.7e-7 atau 0.00000047 AVAX/gas. Batas gas Rantai-C adalah 10e8 atau 1,000,000,000
 {% endhint %}
 
 ```cpp
 +----------+-------------------+------------------------+
-| Chain    : Transaction Type  | Transaction Fee (AVAX) |
+| Rantai    : Tipe transaksi  | Biaya transaksi (AVAX) |
 +----------+-------------------+------------------------+
 | P        : Create Blockchain |                   0.01 |
 +----------+-------------------+------------------------+
@@ -45,5 +45,5 @@ Jenis transaksi yang berbeda memerlukan pembayaran biaya transaksi yang berbeda 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NTQ3NTMxXX0=
+eyJoaXN0b3J5IjpbLTkwMjQxMDcyNV19
 -->
