@@ -28,13 +28,13 @@ Beberapa contoh termasuk:
 
 ### Dukungan untuk Blockchain Pribadi
 
-You can create a subnet where only certain pre-defined validators may join and create a private subnet where the contents of the blockchains would be visible only to those validators. This is ideal for organizations interested in keeping their information private.
+Anda dapat membuat subnet di mana hanya validator yang telah ditentukan sebelumnya yang dapat bergabung dan membuat subnet pribadi di mana konten blockchain hanya akan terlihat oleh validator tersebut. Ini sangat ideal untuk organisasi yang tertarik untuk merahasiakan informasi mereka.
 
-### Separation of Concerns
+### Pemisahan Masalah
 
-In a heterogeneous network of blockchains, some validators will not want to validate certain blockchains because they simply have no interest in those blockchains. The subnet model allows validators to only concern themselves with blockchains that they care about. This reduces the burden on validators.
+Dalam jaringan blockchain yang heterogen, beberapa validator tidak ingin memvalidasi blockchain tertentu karena mereka tidak tertarik dengan blockchain tersebut. Model subnet memungkinkan validator untuk hanya memperhatikan diri mereka sendiri dengan blockchain yang mereka pedulikan. Ini mengurangi beban validator.
 
-### Application-Specific Requirements
+### Persyaratan Khusus Aplikasi
 
 Different blockchain-based applications may require validators to have certain properties. Suppose there is an application that requires large amounts of RAM or CPU power. A Subnet could require that validators meet certain [hardware requirements](http://support.avalabs.org/en/articles/4064879-technical-requirements-for-running-a-validator-node-on-avalanche) so that the application doesn’t suffer from low performance due to slow validators.
 
@@ -89,5 +89,5 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzM4MDM5M119
+eyJoaXN0b3J5IjpbMTM4MjEyMzUyNV19
 -->
