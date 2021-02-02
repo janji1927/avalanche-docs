@@ -4,7 +4,7 @@ deskripsi: Mempelajari konsep inti dan arsitektur Avalanche
 
 # Tinjauan Platform
 
-Avalanche features 3 built-in blockchains: [**Exchange Chain \(X-Chain\)**](./#exchange-chain-x-chain), [**Platform Chain \(P-Chain\)**](./#platform-chain-p-chain), and [**Contract Chain \(C-Chain**\)](./#contract-chain-c-chain). All 3 blockchains are [validated](http://support.avalabs.org/en/articles/4064704-what-is-a-blockchain-validator) and secured by the [**Primary Network**](http://support.avalabs.org/en/articles/4135650-what-is-the-primary-network). The Primary Network is a special [subnet](http://support.avalabs.org/en/articles/4064861-what-is-a-subnetwork-subnet), and all members of all custom subnets must also be a member of the Primary Network by staking at least 2,000 AVAX.
+Avalanche memiliki 3 blockchain bawaan: [**Rantai Pertukaran \(X-Chain\)**](./#exchange-chain-x-chain), [**Platform Chain \(P-Chain\)**](./#platform-chain-p-chain), and [**Contract Chain \(C-Chain**\)](./#contract-chain-c-chain). All 3 blockchains are [validated](http://support.avalabs.org/en/articles/4064704-what-is-a-blockchain-validator) and secured by the [**Primary Network**](http://support.avalabs.org/en/articles/4135650-what-is-the-primary-network). The Primary Network is a special [subnet](http://support.avalabs.org/en/articles/4064861-what-is-a-subnetwork-subnet), and all members of all custom subnets must also be a member of the Primary Network by staking at least 2,000 AVAX.
 
 Here are tutorials on [creating a subnet](../../build/tutorials/platform/create-a-subnet.md) and [adding validators](../../build/tutorials/nodes-and-staking/add-a-validator.md) to a subnet.
 
@@ -90,7 +90,7 @@ C-Chain memungkinkan pembuatan kontrak pintar menggunakan [C-Chain’s API](../.
 C-Chain adalah mesin virtual dari Mesin Virtual Ethereum yang didukung oleh [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MTIyNjMyLC0xMDY1MDU4OTQ4LC0yMD
-Q3NDkzMDE3LDE5MjAwNTg5MzIsLTc3MzQ1MDI1NiwxMzgyMTIz
-NTI1XX0=
+eyJoaXN0b3J5IjpbODQ5ODQ0NTU5LDM3NzEyMjYzMiwtMTA2NT
+A1ODk0OCwtMjA0NzQ5MzAxNywxOTIwMDU4OTMyLC03NzM0NTAy
+NTYsMTM4MjEyMzUyNV19
 -->
