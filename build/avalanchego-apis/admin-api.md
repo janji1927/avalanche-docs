@@ -4,17 +4,17 @@ This API can be used for measuring node health and debugging. Note that the Admi
 
 ## Format
 
-This API uses the `json 2.0` RPC format.
+API ini menggunakan format RPC `json 2.0`.
 
 {% page-ref page="issuing-api-calls.md" %}
 
-## Endpoint
+## Titik akhir
 
 ```text
 /ext/admin
 ```
 
-## API Methods
+## Metode API
 
 ### admin.alias
 
@@ -235,3 +235,6 @@ curl -X POST --data '{
 }
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMTk5ODM2MTVdfQ==
+-->
