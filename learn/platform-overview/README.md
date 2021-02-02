@@ -58,19 +58,19 @@ Avalanche VMs \(AVMs\) memudahkan untuk menentukan aplikasi desentralisasi berba
 
 ### Membuat Blockchain dan Mesin Virtual Anda
 
-Avalanche does not yet support t
+Avalanche belum mendukung pembuatan Mesin Virtual baru \(VMs\). Saat ini, Avalanche hanya mendukung pembuatan instance baru dari Avalanche VM.
 
 {% page-ref page="../../build/tutorials/platform/create-a-new-blockchain.md" %}
 
-In the future, Avalanche will allow you to define and launch custom blockchains, and we’ll release SDKs to help you do so.
+Di masa mendatang, Avalanche akan memungkinkan Anda untuk menentukan dan meluncurkan blockchain khusus, dan kami akan merilis SDK untuk membantu Anda melakukannya.
 
 {% page-ref page="../../build/tutorials/platform/create-a-virtual-machine-vm.md" %}
 
-## Exchange Chain \(X-Chain\)
+## Rantai Pertukaran \(X-Chain\)
 
 The **X-Chain** acts as a decentralized platform for creating and trading digital smart assets, a representation of a real-world resource \(e.g., equity, bonds\) with a set of rules that govern its behavior, like “can’t be traded until tomorrow” or “can only be sent to US citizens.”
 
-One asset traded on the X-Chain is AVAX. When you issue a transaction to a blockchain on Avalanche, you pay a fee denominated in AVAX.
+One asset traded on the X-Chain is AVAX. When you issue a transaction to a blockchain on Avalanche, you pa
 
 The X-Chain is an instance of the Avalanche Virtual Machine \(AVM\). The [X-Chain API](../../build/avalanchego-apis/exchange-chain-x-chain-api.md) allows clients to create and trade assets on the X-Chain and other instances of the AVM.
 
@@ -89,6 +89,6 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzA5MTUzOCwxOTIwMDU4OTMyLC03Nz
-M0NTAyNTYsMTM4MjEyMzUyNV19
+eyJoaXN0b3J5IjpbLTEyMDUyNTc2MTYsMTkyMDA1ODkzMiwtNz
+czNDUwMjU2LDEzODIxMjM1MjVdfQ==
 -->
