@@ -8,13 +8,13 @@ API ini menggunakan format RPC `json 2.0`.
 
 {% page-ref page="issuing-api-calls.md" %}
 
-## Titik akhir
+## Endpoint
 
 ```text
 /ext/admin
 ```
 
-## Metode API
+## API Methods
 
 ### admin.alias
 
@@ -236,5 +236,5 @@ curl -X POST --data '{
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk5ODM2MTVdfQ==
+eyJoaXN0b3J5IjpbMjA3MjEwMTQ3OF19
 -->
