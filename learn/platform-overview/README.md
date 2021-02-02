@@ -36,7 +36,7 @@ Dalam jaringan blockchain yang heterogen, beberapa validator tidak ingin memvali
 
 ### Persyaratan Khusus Aplikasi
 
-Different blockchain-based applications may require validators to have certain properties. Suppose there is an application that requires large amounts of RAM or CPU power. A Subnet could require that validators meet certain [hardware requirements](http://support.avalabs.org/en/articles/4064879-technical-requirements-for-running-a-validator-node-on-avalanche) so that the application doesn’t suffer from low performance due to slow validators.
+Aplikasi berbasis blockchain yang berbeda mungkin memerlukan validator untuk memiliki properti tertentu. Misalkan ada aplikasi yang membutuhkan RAM atau CPU power dalam jumlah besar. Subnet mungkin mengharuskan validator memenuhi persyaratan [perangkat keras tertentu](http://support.avalabs.org/en/articles/4064879-technical-requirements-for-running-a-validator-node-on-avalanche) so that the application doesn’t suffer from low performance due to slow validators.
 
 ## Virtual Machines
 
@@ -89,5 +89,5 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjEyMzUyNV19
+eyJoaXN0b3J5IjpbMzc5MzM4NzU5LDEzODIxMjM1MjVdfQ==
 -->
