@@ -1,10 +1,10 @@
 ---
-description: Learn more about Avalanche's transaction fees
+deskripsi: Pelajari lebih lanjut tentang biaya transaksi Avalanche
 ---
 
-# Transaction Fees
+# Biaya transaksi
 
-In order to prevent spam, transactions on Avalanche require the payment of a transaction fee. The fee is paid in [AVAX](../../#avalanche-avax-token). **The transaction fee is burned \(destroyed forever\).**
+Untuk mencegah spam, transaksi di Longsor memerlukan pembayaran biaya transaksi. Biaya dibayarkan [AVAX](../../#avalanche-avax-token). **The transaction fee is burned \(destroyed forever\).**
 
 When you issue a transaction through Avalanche’s API, the transaction fee is automatically deducted from one of the addresses you control.
 
@@ -44,3 +44,6 @@ The [C-Chain](./#contract-chain-c-chain) gas price is 4.7e-7 or 0.00000047 AVAX/
 +----------+-------------------+------------------------+
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNzM4MjMzMDRdfQ==
+-->
