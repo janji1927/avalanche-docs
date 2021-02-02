@@ -23,10 +23,10 @@ Arsitektur subnet Avalanche membuat kepatuhan peraturan dapat dikelola. Seperti 
 Beberapa contoh termasuk:
 
 * Validator harus berlokasi di negara tertentu
-* Validator harus lulus pemeriksaan KYCML
-* Validators must hold a certain license
+* Validator harus lulus pemeriksaan KYC/AML
+* Validator harus memiliki lisensi tertentu
 
-### Support for Private Blockchains
+### Dukungan untuk Blockchain Pribadi
 
 You can create a subnet where only certain pre-defined validators may join and create a private subnet where the contents of the blockchains would be visible only to those validators. This is ideal for organizations interested in keeping their information private.
 
@@ -89,5 +89,5 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTEwMDAzOV19
+eyJoaXN0b3J5IjpbMTA5NzM4MDM5M119
 -->
