@@ -2,9 +2,9 @@
 
 | Judul | Deskripsi |
 | :--- | :--- |
-| [**Dep**](deploy-a-smart-contract-on-avalanche-using-remix-and-metamask.md) | Terapkan dan uji kontrak cerdas di Avalanche menggunakan Remix dan MetaMask. |
-| [**Using Truffle with the Avalanche C-Chain**](using-truffle-with-the-avalanche-c-chain.md) | Using Truffle with the Avalanche's C-Chain, an instance of the Ethereum Virtual Machine \(EVM\) |
+| [**Terapkan Kontrak Cerdas di Avalanche Menggunakan Remix dan MetaMask**](deploy-a-smart-contract-on-avalanche-using-remix-and-metamask.md) | Terapkan dan uji kontrak cerdas di Avalanche menggunakan Remix dan MetaMask. |
+| [**Menggunakan Truffle dengan Avalanche Rantai-C**](using-truffle-with-the-avalanche-c-chain.md) | Menggunakan Truffle dengan C-Chain Avalanche, sebuah instance dari Mesin Virtual Ethereum \ (EVM \) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM4MjMxNzVdfQ==
+eyJoaXN0b3J5IjpbMzMzMTI1NzUxXX0=
 -->
