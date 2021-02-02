@@ -50,7 +50,7 @@ Pikirkan VM sebagai cetak biru untuk blockchain; Anda dapat menggunakan VM yang 
 
 Pada awalnya, jaringan blockchain memiliki satu Mesin Virtual \(VM\) dengan serangkaian fungsionalitas statis yang telah ditentukan sebelumnya. Desain yang kaku dan monolitik ini membatasi aplikasi berbasis blockchain yang dapat dijalankan seseorang di jaringan tersebut.
 
-People who wanted custom decentralized applications had to create their own, entirely new blockchain network from scratch. Doing so required a great deal of time and effort, offered limited security, and generally resulted in a bespoke, fragile blockchain that never got off the ground.
+Orang yang menginginkan aplikasi terdesentralisasi khusus harus membuat jaringan blockchain mereka sendiri yang sepenuhnya baru dari awal. Melakukan hal itu membutuhkan banyak waktu dan usaha, menawarkan keamanan terbatas, dan umumnya menghasilkan blockchain yang dipesan lebih dahulu dan rapuh yang tidak pernah diluncurkan.
 
 Ethereum made a step toward solving this problem with smart contracts. Developers didn’t need to worry about networking and consensus, but creating decentralized applications was still hard. The Ethereum VM has low performance and imposes restrictions on smart contract developers. Solidity and the other few languages for writing Ethereum smart contracts are unfamiliar to most programmers.
 
@@ -89,5 +89,6 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzQ1MDI1NiwxMzgyMTIzNTI1XX0=
+eyJoaXN0b3J5IjpbMTkyMDA1ODkzMiwtNzczNDUwMjU2LDEzOD
+IxMjM1MjVdfQ==
 -->
