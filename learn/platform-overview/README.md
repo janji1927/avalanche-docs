@@ -6,7 +6,7 @@ deskripsi: Mempelajari konsep inti dan arsitektur Avalanche
 
 Avalanche memiliki 3 blockchain bawaan: [**Rantai Pertukaran \(Rantai-X\)**](./#exchange-chain-x-chain), [**Rantai Platform \(Rantai-P\)**](./#platform-chain-p-chain), and [**Rantai Kontrak \(Rantai-C**\)](./#contract-chain-c-chain). Semua 3 blockchain adalah [divalidasi](http://support.avalabs.org/en/articles/4064704-what-is-a-blockchain-validator) dan diamankan dengan [**Jaringan Utama**](http://support.avalabs.org/en/articles/4135650-what-is-the-primary-network). Jaringan Utama adalah jaringan khusus  [subnet](http://support.avalabs.org/en/articles/4064861-what-is-a-subnetwork-subnet), dan semua anggota dari semua subnet kustom juga harus menjadi anggota Jaringan Primer dengan staking setidaknya 2,000 AVAX.
 
-Here are tutorials on [creating a subnet](../../build/tutorials/platform/create-a-subnet.md) and [adding validators](../../build/tutorials/nodes-and-staking/add-a-validator.md) to a subnet.
+Berikut tutorial tentang [membuat subnet](../../build/tutorials/platform/create-a-subnet.md) dan [menambahkan validator](../../build/tutorials/nodes-and-staking/add-a-validator.md) ke subnet.
 
 ![Primary network](../../.gitbook/assets/primary-network.png)
 
@@ -90,7 +90,7 @@ C-Chain memungkinkan pembuatan kontrak pintar menggunakan [C-Chain’s API](../.
 C-Chain adalah mesin virtual dari Mesin Virtual Ethereum yang didukung oleh [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTc3NzE3NywzNzcxMjI2MzIsLTEwNj
-UwNTg5NDgsLTIwNDc0OTMwMTcsMTkyMDA1ODkzMiwtNzczNDUw
-MjU2LDEzODIxMjM1MjVdfQ==
+eyJoaXN0b3J5IjpbNTQ4NzI5NTE2LDM3NzEyMjYzMiwtMTA2NT
+A1ODk0OCwtMjA0NzQ5MzAxNywxOTIwMDU4OTMyLC03NzM0NTAy
+NTYsMTM4MjEyMzUyNV19
 -->
