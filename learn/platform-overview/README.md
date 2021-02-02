@@ -85,11 +85,12 @@ P-Chain adalah blockchain metadata di Avalanche dan mengoordinasikan validator, 
 
 ## Rantai Kontrak \(C-Chain\)
 
-The **C-Chain** allows for the creation smart contracts using the [C-Chain’s API](../../build/avalanchego-apis/contract-chain-c-chain-api.md).
+C-Chain memungkinkan pembuatan kontrak pintar menggunakan [C-Chain’s API](../../build/avalanchego-apis/contract-chain-c-chain-api.md).
 
-The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
+C-Chain adalah mesin virtual dari Mesin Virtual Ethereum yang didukung oleh [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUwNTg5NDgsLTIwNDc0OTMwMTcsMT
-kyMDA1ODkzMiwtNzczNDUwMjU2LDEzODIxMjM1MjVdfQ==
+eyJoaXN0b3J5IjpbMzc3MTIyNjMyLC0xMDY1MDU4OTQ4LC0yMD
+Q3NDkzMDE3LDE5MjAwNTg5MzIsLTc3MzQ1MDI1NiwxMzgyMTIz
+NTI1XX0=
 -->
