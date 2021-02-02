@@ -20,21 +20,21 @@ Jenis transaksi yang berbeda memerlukan pembayaran biaya transaksi yang berbeda 
 +----------+-------------------+------------------------+
 | Rantai    : Tipe transaksi  | Biaya transaksi (AVAX) |
 +----------+-------------------+------------------------+
-| P        : Create Blockchain |                   0.01 |
+| P        : Buat Blockchain |                   0.01 |
 +----------+-------------------+------------------------+
-| P        : Add Validator     |                      0 |
+| P        : Tambahkan Validator     |                      0 |
 +----------+-------------------+------------------------+
-| P        : Add Delegator     |                      0 |
+| P        : Tambahkan Delegator     |                      0 |
 +----------+-------------------+------------------------+
-| P        : Create Subnet     |                   0.01 |
+| P        : Buat Subnet     |                   0.01 |
 +----------+-------------------+------------------------+
-| P        : Import AVAX       |                  0.001 |
+| P        : Impor AVAX       |                  0.001 |
 +----------+-------------------+------------------------+
-| P        : Export AVAX       |                  0.001 |
+| P        : Ekspor AVAX       |                  0.001 |
 +----------+-------------------+------------------------+
-| X        : Send              |                  0.001 |
+| X        : Kirim              |                  0.001 |
 +----------+-------------------+------------------------+
-| X        : Create Asset      |                   0.01 |
+| X        : Buat Aset      |                   0.01 |
 +----------+-------------------+------------------------+
 | X        : Mint Asset        |                  0.001 |
 +----------+-------------------+------------------------+
@@ -45,5 +45,5 @@ Jenis transaksi yang berbeda memerlukan pembayaran biaya transaksi yang berbeda 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjQxMDcyNV19
+eyJoaXN0b3J5IjpbMTEyNTU2OTE1MF19
 -->
