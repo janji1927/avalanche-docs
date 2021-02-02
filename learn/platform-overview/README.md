@@ -54,11 +54,11 @@ Orang yang menginginkan aplikasi terdesentralisasi khusus harus membuat jaringan
 
 Ethereum mengambil langkah untuk menyelesaikan masalah ini dengan kontrak pintar. Pengembang tidak perlu khawatir tentang jaringan dan konsensus, tetapi membuat aplikasi terdesentralisasi masih sulit. VM Ethereum memiliki kinerja rendah dan memberlakukan batasan pada pengembang kontrak pintar. Soliditas dan beberapa bahasa lain untuk menulis kontrak pintar Ethereum masih asing bagi sebagian besar pemrogram.
 
-Avalanche VMs \(AVMs\) make it easy to define a blockchain-based decentralized application. Rather than new, limited languages like Solidity, developers can write VMs in Go \(other languages will be supported in the future\).
+Avalanche VMs \(AVMs\) memudahkan untuk menentukan aplikasi desentralisasi berbasis blockchain. Daripada bahasa baru dan terbatas seperti Solidity, developer dapat menulis VM di Go \(bahasa lain akan didukung di masa mendatang\).
 
-### Creating Your Blockchain and Virtual Machine
+### Membuat Blockchain dan Mesin Virtual Anda
 
-Avalanche does not yet support the creation of new Virtual Machines \(VMs\). Presently, Avalanche only supports the creation of new instances of the Avalanche VM.
+Avalanche does not yet support t
 
 {% page-ref page="../../build/tutorials/platform/create-a-new-blockchain.md" %}
 
@@ -89,6 +89,6 @@ The **C-Chain** allows for the creation smart contracts using the [C-Chain’s A
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY4MzQ1NzYsMTkyMDA1ODkzMiwtNz
-czNDUwMjU2LDEzODIxMjM1MjVdfQ==
+eyJoaXN0b3J5IjpbMTgwMzA5MTUzOCwxOTIwMDU4OTMyLC03Nz
+M0NTAyNTYsMTM4MjEyMzUyNV19
 -->
