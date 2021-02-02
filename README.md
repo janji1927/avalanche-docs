@@ -70,9 +70,9 @@ Dijamin \(dengan probabilitas tinggi berdasarkan parameter sistem\) bahwa jika v
 
 Pelajari lebih lanjut komponen teknis dari protokol konsensus Avalanche dengan membaca [whitepaper](https://arxiv.org/pdf/1906.08936.pdf).
 
-## Protokol Konsensus Manusia Salju
+## Protokol Konsensus Snowman
 
-Snowman is a chain-optimized consensus protocol–high-throughput, totally-ordered, and great for smart contracts. Snowman is powered by the [Avalanche consensus protocol](./#avalanche-consensus-protocol). Both [P-Chain](learn/platform-overview/#platform-chain-p-chain) and [C-Chain](learn/platform-overview/#contract-chain-c-chain) implement the Snowman consensus protocol.
+Snowman adalah protokol konsensus yang dioptimalkan dengan rantai - throughput tinggi, dipesan secara total, dan bagus untuk kontrak pintar. Snowman didukung oleh.[protokol konsensus Avalanche](./#avalanche-consensus-protocol). Baik [P-Chain](learn/platform-overview/#platform-chain-p-chain) dan [C-Chain](learn/platform-overview/#contract-chain-c-chain) menerapkan protokol konsensus Snowman.
 
 ## Fitur Utama
 
@@ -108,6 +108,7 @@ Buat blockchain publik atau pribadi Anda sendiri.
 
 Dukungan asli untuk dengan mudah membuat dan memperdagangkan aset pintar digital dengan aturan khusus yang kompleks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDQ2MjI2LC0xNjQ5MTgzNTgxLC0xNj
-QwMzg2MjI2LC00NjgyOTEwOTAsLTY1OTU1MzkzM119
+eyJoaXN0b3J5IjpbMTI5MTkwOTgwNCwxMTY0NDYyMjYsLTE2ND
+kxODM1ODEsLTE2NDAzODYyMjYsLTQ2ODI5MTA5MCwtNjU5NTUz
+OTMzXX0=
 -->
